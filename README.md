@@ -40,7 +40,3 @@ npx expo run:android   # or run:ios
 ```
 
 > 📱 Requires a real device (or emulator with camera support) and camera permissions.
-
-## 👩‍💻 Team
-
-Made with ☕ by **Carla Abellana**, **Júlia Salom** & **Marta González**.
