@@ -7,10 +7,10 @@
 Point the camera at your face and watch caps, glasses and crowns
 track your every move in real time. 🎩🕶️👑
 
-![React Native](https://img.shields.io/badge/React_Native-0.81-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-54-000020?style=for-the-badge&logo=expo&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![VisionCamera](https://img.shields.io/badge/VisionCamera-4.7-E63946?style=for-the-badge)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![VisionCamera](https://img.shields.io/badge/VisionCamera-E63946?style=for-the-badge&logo=googlelens&logoColor=white)
 
 </div>
 
