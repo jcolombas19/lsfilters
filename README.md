@@ -7,10 +7,10 @@
 Point the camera at your face and watch caps, glasses and crowns
 track your every move in real time. 🎩🕶️👑
 
-![React Native](https://img.shields.io/badge/React_Native-0.81-61DAFB?logo=react&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-54-000020?logo=expo&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript&logoColor=white)
-![VisionCamera](https://img.shields.io/badge/VisionCamera-4.7-red)
+![React Native](https://img.shields.io/badge/React_Native-0.81-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-54-000020?style=for-the-badge&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![VisionCamera](https://img.shields.io/badge/VisionCamera-4.7-E63946?style=for-the-badge)
 
 </div>
 
@@ -19,9 +19,9 @@ track your every move in real time. 🎩🕶️👑
 ## ✨ What it does
 
 - 🎥 **Live camera feed** with front/back camera switching
-- 🧠 **Real-time face detection** — filters follow your face as you move
-- 🎭 **5 fun filters** — cap, sunglasses, flower crown, donkey face & more
-- 👤 **Custom profile** — emoji avatar picker with live preview
+- 🧠 **Real-time face detection** - filters follow your face as you move
+- 🎭 **5 fun filters** - cap, sunglasses, flower crown, donkey face & more
+- 👤 **Custom profile** - emoji avatar picker with live preview
 - 🧪 **Tested** with Jest & React Native Testing Library
 
 ## 🛠️ How it works
