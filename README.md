@@ -18,11 +18,11 @@ track your every move in real time. 🎩🕶️👑
 
 ## ✨ What it does
 
-- 🎥 **Live camera feed** with front/back camera switching
-- 🧠 **Real-time face detection** - filters follow your face as you move
-- 🎭 **5 fun filters** - cap, sunglasses, flower crown, donkey face & more
-- 👤 **Custom profile** - emoji avatar picker with live preview
-- 🧪 **Tested** with Jest & React Native Testing Library
+- **Live camera feed** with front/back camera switching
+- **Real-time face detection** - filters follow your face as you move
+- **5 fun filters** - cap, sunglasses, flower crown, donkey face & more
+- **Custom profile** - emoji avatar picker with live preview
+- **Tested** with Jest & React Native Testing Library
 
 ## 🛠️ How it works
 
