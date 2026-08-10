@@ -1,16 +1,16 @@
 <div align="center">
 
-# 📸 LsFilters
+![LsFilters](https://capsule-render.vercel.app/api?type=waving&color=0:FFD9A0,100:FF8C42&height=200&text=📸%20LsFilters&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Snapchat-style%20AR%20face%20filters%20in%20React%20Native%20🎩&descSize=18&descAlignY=58)
 
 **Snapchat-style AR face filters, built from scratch in React Native.**
 
 Point the camera at your face and watch caps, glasses and crowns
 track your every move in real time. 🎩🕶️👑
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![VisionCamera](https://img.shields.io/badge/VisionCamera-E63946?style=for-the-badge&logo=googlelens&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-FF8C42?style=for-the-badge&logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-2E2E2E?style=for-the-badge&logo=expo&logoColor=FFB061)
+![TypeScript](https://img.shields.io/badge/TypeScript-E8722A?style=for-the-badge&logo=typescript&logoColor=white)
+![VisionCamera](https://img.shields.io/badge/VisionCamera-D14D28?style=for-the-badge&logo=googlelens&logoColor=white)
 
 </div>
 
